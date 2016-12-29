@@ -1,7 +1,7 @@
 package com.flipkart.uietnsbootcamp.gaurav.Scala20Problems
 
 /**
-  * Created by gaurav.malhotra on 27/12/16.
+  * Created by vikas.garg on 27/12/16.
   */
 
 import org.apache.spark._
