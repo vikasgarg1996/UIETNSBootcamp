@@ -1,0 +1,5 @@
+consumerKey=LgLwP44CFFCTv3HQpzKsmlGU2
+consumerSecret=vrb4S9hnxGfIKl41Cbe9VJ5906hYZgKxBwigeL3C0pZriRTauP
+accessToken=1642873482-GjdsvfgRXhHfW5jyjd3CFFOrzyCwzI1qB05FJLT
+accessTokenSecret=zY6BV5a0eDOHmz5bxQcjESwV900XWO6Z34LxyhRwySWwW
+url=https://stream.twitter.com/1.1/statuses/filter.json
